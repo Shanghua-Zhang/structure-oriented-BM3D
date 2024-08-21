@@ -43,6 +43,6 @@ Script files:
 22. flatten_test: The test of flattening and restoring events corresponds to Figure 5 in the article.
 23. line_chart: Line chart code for Figures 18 and 19 in the article.
 
-Note: This file "paraments" is the parameters used in the article.
+Note: This file "paraments.txt" is the parameters used in the article.
 
 
