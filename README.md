@@ -33,7 +33,7 @@ Function files:
 
 (b) PWD for local slope code:  
 9. str_dip2d: This function implements the 2D data dip estimation based on shaping regularized PWD algorithm.  
-10. str_conv_allpass； This function is a convolution operator implemented by an all-pass filter.  
+10. str_conv_allpass: This function is a convolution operator implemented by an all-pass filter.  
 11. str_divne: This function implements the N-dimensional smooth division rat=num/den.  
 12. str_pwsmooth_lop2d: This function uses a two-dimensional plane wave smoothing algorithm to smooth the input noisy data.  
 13. str_pwspray_lop2d: This function implements the 2D plane-wave spray operator.
