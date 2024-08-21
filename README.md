@@ -37,7 +37,7 @@ Structure-oriented BM3D code:
 18. get_SNR: The function is used to calculate SNR.
 
 Script files:
-19. main_BM3D； BM3D denoising.
+19. main_BM3D: BM3D denoising.
 20. main_Structural_filtering: Structural filtering denoising.
 21. main_SBM3D: Structure-oriented BM3D denoising.
 22. flatten_test: The test of flattening and restoring events corresponds to Figure 5 in the article.
